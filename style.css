@@ -1,0 +1,111 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-color: navy;
+}
+
+#ip {
+  height: 522.24px;
+  width: 253.44px;
+  background-color: black;
+  margin: auto;
+  border-radius: 10%;
+  border: 5px white solid;
+  margin-top: 40px;
+}
+
+#ac {
+  font-size: 24px;
+  height: 50px;
+  background-color: #a5a6a5;
+  color: black;
+  width: 50px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 8px;
+}
+
+.bu {
+  background-color: white;
+  height: 50px;
+  background-color: white;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 30px;
+
+  text-align: center;
+  margin: 8px;
+}
+
+#up {
+  width: 253.44px;
+  height: 174.08px;
+}
+
+#f1 {
+  height: 69.632px;
+  width: 253.44px;
+  display: flex;
+}
+
+.yel {
+  background-color: orange;
+}
+
+#divide {
+  background-color: orange;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 30px;
+  text-align: center;
+  margin: 8px;
+}
+
+.fir {
+  background-color: #a5a6a5;
+  height: 50px;
+  width: 50px;
+  color: black;
+  border-radius: 50%;
+  font-size: 30px;
+  text-align: center;
+  margin: 8px;
+}
+
+.mak {
+  background-color: #333333;
+  color: white;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 30px;
+  text-align: center;
+  margin: 8px;
+}
+
+.yellow {
+  height: 50px;
+  background-color: orange;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 30px;
+
+  text-align: center;
+  margin: 8px;
+}
+
+#mm {
+  width: 200px;
+  height: 40px;
+  margin-left: 20px;
+  display: inline-block;
+  margin-top: 110px;
+}
+
+#dp {
+  text-align: right;
+}
